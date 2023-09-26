@@ -27,13 +27,13 @@ in termal go to the react folder
 
 TODO LIST
 file location :- login-and-register-app > src > components > homepage > homepage.js
-  * in homepage.js file all the react codes are written for TODO LIST
-  * in homepage.css file the styling is given
+  1. in homepage.js file all the react codes are written for TODO LIST
+  2. in homepage.css file the styling is given
 
 TODO LIST functionalities
-   create items
-   delete items
-   mark as read
+   1. create items
+   2. delete items
+   3. mark as read
 Used local storage for storing the current data in the local storage so that the list does not got erased after refreshing.
 
   
