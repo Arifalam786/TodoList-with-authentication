@@ -34,6 +34,7 @@ TODO LIST functionalities
    1. create items
    2. delete items
    3. mark as read
+
 Used local storage for storing the current data in the local storage so that the list does not got erased after refreshing.
 
   
