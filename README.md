@@ -10,8 +10,8 @@ dependencies required the backend setup
 
 In order to run the backend file
 follow the steps
-   1 go into the backend folder  (terminal)
-   2 write command in terminal.   nodemon index.js
+   1. go into the backend folder  (terminal)
+   2. write command in terminal.   nodemon index.js
   you will see "BE started at port 9002"
                 "DB connected"
 
