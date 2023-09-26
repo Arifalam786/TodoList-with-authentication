@@ -27,8 +27,8 @@ in termal go to the react folder
 
 TODO LIST
 file location :- login-and-register-app > src > components > homepage > homepage.js
-   in homepage.js file all the react codes are written for TODO LIST
-   in homepage.css file the styling is given
+  * in homepage.js file all the react codes are written for TODO LIST
+  * in homepage.css file the styling is given
 
 TODO LIST functionalities
    create items
